@@ -10,4 +10,4 @@ Use arrow keys to move the player around.
 - Enemies move at random speed and collision with the player resets the game and the player goes back to initial position.
 
 ## Reference
-Starter code was provided by Udacity
+Starter code was provided by Udacity.
